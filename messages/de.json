@@ -1,0 +1,298 @@
+{
+ "meta": {
+  "homeTitle": "Mietwagen Marokko | 4x4, Luxus & Stadtautos | SHR Cars",
+  "homeDesc": "Mieten Sie ein Auto in Marokko zum besten Preis. Stadtautos, Luxusfahrzeuge und 4x4 in Marrakesch, Casablanca, Tanger, Agadir und ganz Marokko.",
+  "carsTitle": "Unsere Autos | SHR Cars Mietwagen Marokko",
+  "carsDesc": "Vergleichen Sie unsere 4x4, Stadtautos und Mittelklasse. Kostenlose Flughafenlieferung, unbegrenzte Kilometer, Zahlung in der Agentur.",
+  "cityTitle": "Mietwagen & 4x4 in {city} | SHR Cars",
+  "cityDesc": "Mieten Sie ein Auto oder 4x4 in {city}, Marokko. Abholung am Flughafen und in der Stadt, unbegrenzte Kilometer, keine Vorauszahlung.",
+  "blogTitle": "Blog | Reisetipps für Marokko | SHR Cars",
+  "blogDesc": "Reiseführer, Fahrtipps und die schönsten Orte in Marokko mit dem Mietwagen.",
+  "contactTitle": "Kontakt | SHR Cars Mietwagen",
+  "aboutTitle": "Über uns | SHR Cars Mietwagen",
+  "galleryTitle": "Galerie | SHR Cars Mietwagen",
+  "conditionsTitle": "Mietbedingungen | SHR Cars Mietwagen"
+ },
+ "nav": {
+  "home": "STARTSEITE",
+  "fourx4": "4×4 SAHARA",
+  "luxury": "LUXUS",
+  "citadine": "STADTAUTOS",
+  "gallery": "GALERIE",
+  "contact": "KONTAKT",
+  "about": "ÜBER UNS",
+  "cars": "UNSERE AUTOS",
+  "blog": "BLOG",
+  "conditions": "Mietbedingungen",
+  "menu": "Menü",
+  "language": "Sprache"
+ },
+ "common": {
+  "bookNow": "JETZT BUCHEN",
+  "book": "BUCHEN",
+  "startingFrom": "Ab",
+  "perDay": "/ Tag",
+  "total": "Gesamt",
+  "orSimilar": "oder ähnlich",
+  "readMore": "Weiterlesen",
+  "explore": "Unsere Autos ansehen",
+  "days": "Tage",
+  "day": "Tag",
+  "all": "Alle",
+  "loading": "Lädt…"
+ },
+ "search": {
+  "pickupLocation": "Abholort",
+  "dropoffLocation": "Rückgabeort",
+  "differentReturn": "Rückgabe an anderem Ort",
+  "pickupDate": "Abholdatum",
+  "pickupTime": "Abholzeit",
+  "dropoffDate": "Rückgabedatum",
+  "dropoffTime": "Rückgabezeit",
+  "category": "Kategorie",
+  "any": "Alle",
+  "search": "Suchen",
+  "choose": "Ort wählen",
+  "invalid": "Die Rückgabe muss nach der Abholung liegen."
+ },
+ "cat": {
+  "4x4": "4x4",
+  "citadine": "Stadtauto",
+  "midrange": "Mittelklasse"
+ },
+ "spec": {
+  "manual": "Schaltgetriebe",
+  "automatic": "Automatik",
+  "diesel": "Diesel",
+  "petrol": "Benzin",
+  "seats": "{n} Sitze",
+  "ac": "Klima",
+  "fuelPolicy": "Tankregelung",
+  "fuelPolicyText": "Abholung und Rückgabe mit gleichem Tankstand",
+  "minAge": "Mindestalter",
+  "minAgeText": "{n} Jahre"
+ },
+ "carDesc": {
+  "4x4": "Ein kräftiger, zuverlässiger 4x4 für Wüstenpisten, Bergstraßen und Komfort im Alltag.",
+  "citadine": "Ein kompaktes, sparsames Auto, ideal für die Stadt und den täglichen Gebrauch.",
+  "midrange": "Ein komfortabler, moderner SUV mit guter Ausstattung für lange Reisen und Familienurlaub."
+ },
+ "included": [
+  "Kostenlose Stornierung",
+  "Keine Vorauszahlung nötig",
+  "Kostenlose Lieferung & Abholung am Flughafen",
+  "Kostenlose Lieferung & Abholung nach Hause in Marrakesch",
+  "Diebstahlschutz",
+  "Teilkasko bei Kollision",
+  "Pannenhilfe rund um die Uhr",
+  "Unbegrenzte Kilometer"
+ ],
+ "deposit": {
+  "title": "Kaution / Selbstbeteiligung",
+  "text": "Betrag wird auf Ihrer Karte blockiert",
+  "cards": "Debit-, Kreditkarten und American Express werden akzeptiert"
+ },
+ "hero": {
+  "title": "Offroad. Auf den Punkt. Marokkos beste Auto- und 4x4-Vermietung"
+ },
+ "home": {
+  "introTitle": "4x4 in Marrakesch mieten",
+  "introText": "Entdecken Sie Marokko mit unserer 4x4-Vermietung in Marrakesch. Ob Marrakesch, Atlasgebirge oder Sahara: Wir haben das passende Fahrzeug.",
+  "features": [
+   {
+    "t": "Praktische Abholorte",
+    "d": "Unsere Fahrzeuge sind zuverlässig und vielseitig, ideal für Dünen, Bergstraßen und Stadt."
+   },
+   {
+    "t": "Faire Preise",
+    "d": "Günstige Tarife ohne versteckte Kosten, flexible Pakete und ein tolles Preis-Leistungs-Verhältnis."
+   },
+   {
+    "t": "Kompetenter Support",
+    "d": "Unser Team ist rund um die Uhr für Ihre Buchung und Hilfe unterwegs erreichbar."
+   },
+   {
+    "t": "Flexible Mietoptionen",
+    "d": "Tages-, Wochen- oder Langzeitmiete passend zu Ihrer Reise."
+   },
+   {
+    "t": "Stationen in ganz Marokko",
+    "d": "Abhol- und Rückgabeorte im ganzen Land machen Mieten und Zurückgeben einfach."
+   },
+   {
+    "t": "Sicherheit zuerst",
+    "d": "Gepflegte Fahrzeuge mit Airbags, GPS und Notfallset."
+   }
+  ],
+  "sections": [
+   {
+    "t": "Erkunden Sie die Sahara mit unseren 4x4",
+    "d": "Sie suchen ein unvergessliches Abenteuer? Bezwingen Sie goldene Dünen, besuchen Sie abgelegene Oasen und genießen Sie den endlosen Horizont mit einem 4x4 aus Marrakesch."
+   },
+   {
+    "t": "Abenteuer im Atlasgebirge",
+    "d": "Fahren Sie die kurvigen Straßen des marokkanischen Atlas. Bergpässe und versteckte Täler sind mit einem zuverlässigen 4x4 leicht zu erreichen."
+   },
+   {
+    "t": "Entdecken Sie Marokkos verborgene Schätze",
+    "d": "Von alten Städten bis zu abgelegenen Dörfern: Mit einem 4x4 verlassen Sie ausgetretene Pfade und erleben Kultur und Landschaft Marokkos."
+   }
+  ],
+  "carsTitle": "Mietwagen & 4x4 in Marrakesch",
+  "galleryTitle": "Unvergessliche Abenteuer im 4x4",
+  "citiesTitle": "Unsere Mietstationen",
+  "reviewsKicker": "KUNDENERFAHRUNGEN",
+  "reviewsTitle": "Das Vertrauen unserer Kunden",
+  "reviewsText": "Erfahren Sie, was Kunden über ihre Erfahrung mit SHR Cars Rental sagen.",
+  "reviewsCta": "Google-Bewertungen lesen",
+  "reviewsCount": "{count} Bewertungen",
+  "ctaTitle": "Ihre nächste Reise beginnt mit dem richtigen Auto.",
+  "historyTitle": "Unsere Geschichte",
+  "historyText": "Wir bieten hochwertige 4x4- und Autovermietung in ganz Marokko. Ob Sahara-Abenteuer, Marrakesch-Besuch oder Fahrt durch den Atlas: Unsere zuverlässige Flotte und unser Service machen Ihre Reise besser.",
+  "aboutBtn": "ÜBER UNS",
+  "faqTitle": "Antworten auf Ihre Fragen",
+  "blogTitle": "Aus unserem Blog"
+ },
+ "faq": [
+  {
+   "q": "Wie finde ich die besten Angebote am Flughafen Marrakesch?",
+   "a": "Vergleichen Sie direkt auf unserer Website: Die Preise gelten pro Tag und ohne versteckte Kosten."
+  },
+  {
+   "q": "Welche Dokumente brauche ich für die Miete?",
+   "a": "Einen gültigen Führerschein, Ausweis oder Reisepass und eine Karte für die Kaution. Das Mindestalter beträgt 21 Jahre."
+  },
+  {
+   "q": "Welche Verkehrsregeln gelten in Marokko?",
+   "a": "Rechtsverkehr, Anschnallpflicht, kein Telefonieren am Steuer und Tempolimits beachten."
+  },
+  {
+   "q": "Ist eine Versicherung inbegriffen?",
+   "a": "Die Basisversicherung ist inklusive, mit Teilkasko bei Kollision und Diebstahlschutz. Die Selbstbeteiligung wird auf Ihrer Karte blockiert."
+  },
+  {
+   "q": "Wo kann ich das Fahrzeug abholen oder zurückgeben?",
+   "a": "Die meisten Abholungen erfolgen am Flughafen. Wir liefern in Marrakesch auch kostenlos zu Hotel oder Wohnort."
+  },
+  {
+   "q": "Wie lautet die Tankregelung?",
+   "a": "Abholung und Rückgabe mit gleichem Tankstand."
+  },
+  {
+   "q": "Was kostet ein Mietwagen in Marrakesch?",
+   "a": "Die Preise beginnen bei 20 € pro Tag, je nach Saison und Fahrzeug."
+  },
+  {
+   "q": "Tipps für eine reibungslose Miete?",
+   "a": "Früh buchen, Mietbedingungen lesen, das Auto vor der Abfahrt prüfen und verantwortungsvoll fahren."
+  }
+ ],
+ "cars": {
+  "title": "Unsere Autos",
+  "intro": "Wählen Sie Ihr Fahrzeug. Kostenlose Stornierung, keine Vorauszahlung: Sie zahlen in der Agentur.",
+  "found": "{n} Autos verfügbar",
+  "noneTitle": "Keine Autos für diese Daten verfügbar",
+  "noneText": "Versuchen Sie andere Daten oder eine andere Kategorie oder kontaktieren Sie uns.",
+  "changeDates": "Daten ändern",
+  "pickup": "Abholung",
+  "dropoff": "Rückgabe",
+  "duration": "{n} Tage",
+  "allCars": "Alle Autos",
+  "soldOut": "Nicht verfügbar"
+ },
+ "detail": {
+  "overview": "Übersicht",
+  "included": "Inklusive",
+  "specs": "Ausstattung",
+  "pricing": "Preise",
+  "selectDates": "Wählen Sie Ihre Daten",
+  "check": "Verfügbarkeit prüfen",
+  "notAvailable": "Dieses Auto ist an den gewählten Tagen nicht verfügbar.",
+  "available": "Für Ihre Daten verfügbar",
+  "similar": "Weitere Autos, die Ihnen gefallen könnten",
+  "deposit": "Kaution"
+ },
+ "book": {
+  "title": "Buchung abschließen",
+  "details": "Ihre Daten",
+  "name": "Vollständiger Name",
+  "email": "E-Mail",
+  "phone": "Telefon / WhatsApp",
+  "country": "Land",
+  "notes": "Hinweise (Flugnummer, Lieferadresse…)",
+  "summary": "Buchungsübersicht",
+  "confirm": "Buchung bestätigen",
+  "submitting": "Wird gesendet…",
+  "payAtAgency": "Zahlung in der Agentur",
+  "payNote": "Jetzt keine Karte nötig. Sie zahlen bei der Abholung.",
+  "errorGeneric": "Etwas ist schiefgelaufen. Bitte erneut versuchen oder uns kontaktieren.",
+  "unavailable": "Leider wurde dieses Auto gerade für diese Daten gebucht.",
+  "required": "Bitte Name, E-Mail und Telefon angeben.",
+  "datesMissing": "Bitte zuerst die Daten wählen."
+ },
+ "confirm": {
+  "title": "Buchung bestätigt",
+  "text": "Vielen Dank! Wir haben Ihre Buchung erhalten und eine Bestätigung an Ihre E-Mail gesendet.",
+  "orderNumber": "Bestellnummer",
+  "code": "Bestätigungscode",
+  "status": "Status",
+  "statusConfirmed": "Bestätigt",
+  "back": "Zur Startseite",
+  "notFound": "Buchung nicht gefunden."
+ },
+ "contact": {
+  "title": "Kontakt",
+  "text": "Fragen oder Sonderwünsche? Wir antworten schnell, rund um die Uhr.",
+  "name": "Ihr Name",
+  "email": "E-Mail",
+  "phone": "Telefon",
+  "message": "Nachricht",
+  "send": "Nachricht senden",
+  "sent": "Nachricht gesendet. Wir melden uns in Kürze.",
+  "error": "Nachricht konnte nicht gesendet werden. Bitte WhatsApp oder Telefon nutzen.",
+  "call": "Rufen Sie uns an",
+  "write": "Schreiben Sie uns",
+  "visit": "Besuchen Sie uns",
+  "whatsapp": "Per WhatsApp chatten"
+ },
+ "about": {
+  "title": "Über SHR Cars Rental",
+  "text": "Wir sind auf die Vermietung von 4x4 und Autos in ganz Marokko spezialisiert. Unser Team liefert die Fahrzeuge zum Flughafen, ins Hotel oder nach Hause und unterstützt Sie rund um die Uhr."
+ },
+ "conditions": {
+  "title": "Mietbedingungen",
+  "items": [
+   "Mindestalter: 21 Jahre. Fahrer unter 25 Jahren können einen Jungfahrerzuschlag zahlen.",
+   "Ein gültiger Führerschein (mindestens 1 Jahr) sowie Ausweis oder Reisepass sind erforderlich.",
+   "Eine Kaution wird bei Abholung auf einer Debit- oder Kreditkarte blockiert und bei Rückgabe freigegeben.",
+   "Tankregelung: gleicher Tankstand bei Abholung und Rückgabe.",
+   "Die Kilometer sind unbegrenzt.",
+   "Kostenlose Stornierung, keine Vorauszahlung: Zahlung in der Agentur.",
+   "Teilkasko bei Kollision und Diebstahlschutz sind inklusive. Die Selbstbeteiligung hängt vom Fahrzeug ab.",
+   "Offroad-Fahrten sind nur mit 4x4-Fahrzeugen und auf eigenes Risiko erlaubt."
+  ]
+ },
+ "city": {
+  "title": "Mietwagen & 4x4 in {city}",
+  "text": "Mieten Sie ein Auto oder einen 4x4 in {city} bei SHR Cars. Abholung am Flughafen oder in der Stadt, unbegrenzte Kilometer, kostenlose Stornierung und keine Vorauszahlung.",
+  "fleet": "Verfügbare Autos in {city}"
+ },
+ "blog": {
+  "title": "Reisetipps für Marokko",
+  "empty": "Artikel folgen in Kürze.",
+  "back": "Zurück zum Blog"
+ },
+ "footer": {
+  "aboutTitle": "UNSERE GESCHICHTE",
+  "aboutText": "Wir sind auf hochwertige 4x4- und Autovermietung spezialisiert, mit Komfort und Zuverlässigkeit für Ihre Reisen durch Marokko.",
+  "essential": "Wichtige Links",
+  "agency": "Agentur",
+  "locations": "Standorte",
+  "rights": "Alle Rechte vorbehalten."
+ },
+ "notFound": {
+  "title": "Seite nicht gefunden",
+  "text": "Die gesuchte Seite existiert nicht.",
+  "home": "Zur Startseite"
+ }
+}

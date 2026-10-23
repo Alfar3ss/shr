@@ -1,0 +1,298 @@
+{
+ "meta": {
+  "homeTitle": "Car Rental Morocco | 4x4, Luxury & City Cars | SHR Cars",
+  "homeDesc": "Rent a car in Morocco at the best prices. Affordable car rentals, luxury vehicles and 4x4 in Marrakech, Casablanca, Tangier, Agadir and across Morocco.",
+  "carsTitle": "Our cars | SHR Cars Rental Morocco",
+  "carsDesc": "Compare our 4x4, city cars and mid-range vehicles. Free airport delivery, unlimited mileage, pay at the agency.",
+  "cityTitle": "Car rental & 4x4 in {city} | SHR Cars",
+  "cityDesc": "Rent a car or 4x4 in {city}, Morocco. Airport and city pick-up, unlimited mileage, no prepayment.",
+  "blogTitle": "Blog | Travel tips for Morocco | SHR Cars",
+  "blogDesc": "Travel guides, driving tips and the best places to visit in Morocco with a rental car.",
+  "contactTitle": "Contact | SHR Cars Rental",
+  "aboutTitle": "About us | SHR Cars Rental",
+  "galleryTitle": "Gallery | SHR Cars Rental",
+  "conditionsTitle": "Rental conditions | SHR Cars Rental"
+ },
+ "nav": {
+  "home": "HOME",
+  "fourx4": "4×4 SAHARA",
+  "luxury": "LUXURY",
+  "citadine": "CITY CARS",
+  "gallery": "GALLERY",
+  "contact": "CONTACT",
+  "about": "ABOUT",
+  "cars": "OUR CARS",
+  "blog": "BLOG",
+  "conditions": "Rental conditions",
+  "menu": "Menu",
+  "language": "Language"
+ },
+ "common": {
+  "bookNow": "BOOK NOW",
+  "book": "BOOK",
+  "startingFrom": "Starting from",
+  "perDay": "/ day",
+  "total": "Total",
+  "orSimilar": "or similar",
+  "readMore": "Read more",
+  "explore": "Explore our cars",
+  "days": "days",
+  "day": "day",
+  "all": "All",
+  "loading": "Loading…"
+ },
+ "search": {
+  "pickupLocation": "Pickup location",
+  "dropoffLocation": "Drop-off location",
+  "differentReturn": "Return to a different location",
+  "pickupDate": "Pickup date",
+  "pickupTime": "Pickup time",
+  "dropoffDate": "Drop-off date",
+  "dropoffTime": "Drop-off time",
+  "category": "Category",
+  "any": "Any",
+  "search": "Search",
+  "choose": "Choose a location",
+  "invalid": "The return must be after the pickup."
+ },
+ "cat": {
+  "4x4": "4x4",
+  "citadine": "City car",
+  "midrange": "Mid-range"
+ },
+ "spec": {
+  "manual": "Manual",
+  "automatic": "Automatic",
+  "diesel": "Diesel",
+  "petrol": "Petrol",
+  "seats": "{n} seats",
+  "ac": "A/C",
+  "fuelPolicy": "Fuel policy",
+  "fuelPolicyText": "Pick up and return with the same fuel level",
+  "minAge": "Minimum age",
+  "minAgeText": "{n} years old"
+ },
+ "carDesc": {
+  "4x4": "A powerful and reliable 4x4, built for desert tracks, mountain roads and everyday comfort.",
+  "citadine": "A compact, economical car, perfect for city driving and daily use.",
+  "midrange": "A comfortable, modern SUV with great equipment for long trips and family travel."
+ },
+ "included": [
+  "Free cancellation",
+  "No prepayment required",
+  "Free airport delivery & pickup",
+  "Free home delivery & pickup in Marrakech",
+  "Theft protection",
+  "Partial coverage in case of collision",
+  "24/7 roadside assistance",
+  "Unlimited mileage"
+ ],
+ "deposit": {
+  "title": "Security deposit / excess (franchise)",
+  "text": "Amount blocked on your card",
+  "cards": "Debit cards, credit cards and American Express are accepted"
+ },
+ "hero": {
+  "title": "Off-road. On point. Morocco's best car and 4x4 rentals"
+ },
+ "home": {
+  "introTitle": "Rent a 4x4 in Marrakech",
+  "introText": "Discover Morocco with our 4x4 rental service in Marrakech. Whether you explore the streets of Marrakech, the Atlas Mountains or the Sahara Desert, we have the perfect vehicle for your trip.",
+  "features": [
+   {
+    "t": "Convenient pick-up points",
+    "d": "Our vehicles are reliable and versatile, perfect for dunes, mountain roads and city streets."
+   },
+   {
+    "t": "Affordable prices",
+    "d": "Competitive rates with no hidden fees, flexible packages and great value for money."
+   },
+   {
+    "t": "Expert support",
+    "d": "Our team is available 24/7 for your booking and for assistance on the road."
+   },
+   {
+    "t": "Flexible rental options",
+    "d": "Daily, weekly or long-term rentals to suit your travel plans."
+   },
+   {
+    "t": "Offices across Morocco",
+    "d": "Pick-up and drop-off points all over Morocco make renting and returning easy."
+   },
+   {
+    "t": "Safety first",
+    "d": "Well-maintained vehicles equipped with airbags, GPS and emergency kits."
+   }
+  ],
+  "sections": [
+   {
+    "t": "Explore the Sahara with our 4x4 rentals",
+    "d": "Looking for an unforgettable adventure? Conquer golden dunes, visit remote oases and admire the endless horizon with a 4x4 rented in Marrakech."
+   },
+   {
+    "t": "Adventure in the Atlas Mountains",
+    "d": "Set off on the winding roads of Morocco's Atlas Mountains. Mountain passes and hidden valleys are easy with a reliable 4x4."
+   },
+   {
+    "t": "Discover the hidden treasures of Morocco",
+    "d": "From ancient cities to remote villages, a 4x4 lets you leave the beaten track and discover Morocco's culture and landscapes."
+   }
+  ],
+  "carsTitle": "Car rental & 4x4 Marrakech",
+  "galleryTitle": "Unforgettable adventures in 4x4",
+  "citiesTitle": "Our rental locations",
+  "reviewsKicker": "CUSTOMER EXPERIENCES",
+  "reviewsTitle": "Trusted by our customers",
+  "reviewsText": "Discover what customers say about their experience with SHR Cars Rental.",
+  "reviewsCta": "Read Google reviews",
+  "reviewsCount": "{count} reviews",
+  "ctaTitle": "Your next journey starts with the right car.",
+  "historyTitle": "Discover our story",
+  "historyText": "We provide high-quality 4x4 and car rental throughout Morocco. Whether you plan an adventure across the Sahara, a visit to Marrakech or a drive through the Atlas Mountains, our reliable fleet and service will elevate your trip.",
+  "aboutBtn": "ABOUT US",
+  "faqTitle": "Get the answers you need",
+  "blogTitle": "From our blog"
+ },
+ "faq": [
+  {
+   "q": "How can I find the best deals on car rentals at Marrakech Airport?",
+   "a": "Compare offers directly on our website: prices are listed per day with no hidden fees."
+  },
+  {
+   "q": "What documents are required to rent a car?",
+   "a": "A valid driving licence, an ID or passport and a card for the security deposit. The minimum age is 21."
+  },
+  {
+   "q": "What are Morocco's driving rules?",
+   "a": "Drive on the right, wear your seatbelt, do not use your phone while driving and respect speed limits."
+  },
+  {
+   "q": "Is insurance included?",
+   "a": "Basic insurance is included, with partial collision coverage and theft protection. The excess (franchise) is blocked on your card."
+  },
+  {
+   "q": "Where can I pick up or return the vehicle?",
+   "a": "Most pick-ups are at the airport terminal. We also deliver to your hotel or home in Marrakech for free."
+  },
+  {
+   "q": "What is the fuel policy?",
+   "a": "Pick up and return the car with the same fuel level."
+  },
+  {
+   "q": "How much does it cost to rent a car in Marrakech?",
+   "a": "Prices start at €20 per day depending on the season and the vehicle."
+  },
+  {
+   "q": "Any tips for a smooth rental?",
+   "a": "Book early, read the rental terms, inspect the car before driving off and drive responsibly."
+  }
+ ],
+ "cars": {
+  "title": "Our cars",
+  "intro": "Choose your vehicle. Free cancellation, no prepayment: you pay at the agency.",
+  "found": "{n} cars available",
+  "noneTitle": "No cars available for these dates",
+  "noneText": "Try different dates or another category, or contact us and we will find a solution.",
+  "changeDates": "Change dates",
+  "pickup": "Pickup",
+  "dropoff": "Drop-off",
+  "duration": "{n} days",
+  "allCars": "All cars",
+  "soldOut": "Not available"
+ },
+ "detail": {
+  "overview": "Overview",
+  "included": "Included",
+  "specs": "Specifications",
+  "pricing": "Pricing",
+  "selectDates": "Select your dates",
+  "check": "Check availability",
+  "notAvailable": "This car is not available for the selected dates.",
+  "available": "Available for your dates",
+  "similar": "Other cars you may like",
+  "deposit": "Security deposit"
+ },
+ "book": {
+  "title": "Complete your booking",
+  "details": "Your details",
+  "name": "Full name",
+  "email": "Email",
+  "phone": "Phone / WhatsApp",
+  "country": "Country",
+  "notes": "Notes (flight number, delivery address…)",
+  "summary": "Booking summary",
+  "confirm": "Confirm booking",
+  "submitting": "Sending…",
+  "payAtAgency": "Payment at the agency",
+  "payNote": "No card needed now. You pay when you pick up the car.",
+  "errorGeneric": "Something went wrong. Please try again or contact us.",
+  "unavailable": "Sorry, this car was just booked for these dates.",
+  "required": "Please fill in your name, email and phone.",
+  "datesMissing": "Please choose your dates first."
+ },
+ "confirm": {
+  "title": "Booking confirmed",
+  "text": "Thank you! We received your booking and sent a confirmation to your email.",
+  "orderNumber": "Order number",
+  "code": "Confirmation code",
+  "status": "Status",
+  "statusConfirmed": "Confirmed",
+  "back": "Back to home",
+  "notFound": "Booking not found."
+ },
+ "contact": {
+  "title": "Contact us",
+  "text": "Questions or a special request? We reply fast, 24/7.",
+  "name": "Your name",
+  "email": "Email",
+  "phone": "Phone",
+  "message": "Message",
+  "send": "Send message",
+  "sent": "Message sent. We will get back to you shortly.",
+  "error": "Could not send the message. Please try WhatsApp or phone.",
+  "call": "Call us",
+  "write": "Write to us",
+  "visit": "Visit us",
+  "whatsapp": "Chat on WhatsApp"
+ },
+ "about": {
+  "title": "About SHR Cars Rental",
+  "text": "We specialise in 4x4 and car rental across Morocco. Our team delivers vehicles to the airport, your hotel or your home, and supports you 24/7 during your trip."
+ },
+ "conditions": {
+  "title": "Rental conditions",
+  "items": [
+   "Minimum age: 21 years. Drivers under 25 may be subject to a young-driver fee.",
+   "A valid driving licence (held for at least 1 year) and an ID or passport are required.",
+   "A security deposit is blocked on a debit or credit card at pick-up and released at return.",
+   "Fuel policy: same level at pick-up and return.",
+   "Mileage is unlimited.",
+   "Free cancellation, no prepayment: payment is made at the agency.",
+   "Partial collision coverage and theft protection are included. The excess (franchise) depends on the vehicle.",
+   "Driving off the road is only allowed with 4x4 vehicles and at the driver's own risk."
+  ]
+ },
+ "city": {
+  "title": "Car rental & 4x4 in {city}",
+  "text": "Rent a car or a 4x4 in {city} with SHR Cars. Pick up your vehicle at the airport or in the city, with unlimited mileage, free cancellation and no prepayment.",
+  "fleet": "Cars available in {city}"
+ },
+ "blog": {
+  "title": "Travel tips for Morocco",
+  "empty": "Articles are coming soon.",
+  "back": "Back to the blog"
+ },
+ "footer": {
+  "aboutTitle": "DISCOVER OUR STORY",
+  "aboutText": "We specialise in high-quality 4x4 and car rentals, with comfort and reliability for your travels throughout Morocco.",
+  "essential": "Essential links",
+  "agency": "Agency",
+  "locations": "Locations",
+  "rights": "All rights reserved."
+ },
+ "notFound": {
+  "title": "Page not found",
+  "text": "The page you are looking for does not exist.",
+  "home": "Back to home"
+ }
+}

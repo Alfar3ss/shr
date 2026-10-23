@@ -1,0 +1,298 @@
+{
+ "meta": {
+  "homeTitle": "Noleggio auto in Marocco | 4x4, lusso e city car | SHR Cars",
+  "homeDesc": "Noleggia un'auto in Marocco al miglior prezzo. City car, auto di lusso e 4x4 a Marrakech, Casablanca, Tangeri, Agadir e in tutto il Marocco.",
+  "carsTitle": "Le nostre auto | SHR Cars Noleggio Marocco",
+  "carsDesc": "Confronta le nostre 4x4, city car e auto di fascia media. Consegna gratuita in aeroporto, chilometraggio illimitato, pagamento in agenzia.",
+  "cityTitle": "Noleggio auto e 4x4 a {city} | SHR Cars",
+  "cityDesc": "Noleggia un'auto o una 4x4 a {city}, Marocco. Ritiro in aeroporto e in città, chilometraggio illimitato, nessun pagamento anticipato.",
+  "blogTitle": "Blog | Consigli di viaggio in Marocco | SHR Cars",
+  "blogDesc": "Guide di viaggio, consigli di guida e i posti più belli da visitare in Marocco con un'auto a noleggio.",
+  "contactTitle": "Contatti | SHR Cars Noleggio",
+  "aboutTitle": "Chi siamo | SHR Cars Noleggio",
+  "galleryTitle": "Galleria | SHR Cars Noleggio",
+  "conditionsTitle": "Condizioni di noleggio | SHR Cars Noleggio"
+ },
+ "nav": {
+  "home": "HOME",
+  "fourx4": "4×4 SAHARA",
+  "luxury": "LUSSO",
+  "citadine": "CITY CAR",
+  "gallery": "GALLERIA",
+  "contact": "CONTATTI",
+  "about": "CHI SIAMO",
+  "cars": "LE NOSTRE AUTO",
+  "blog": "BLOG",
+  "conditions": "Condizioni di noleggio",
+  "menu": "Menu",
+  "language": "Lingua"
+ },
+ "common": {
+  "bookNow": "PRENOTA ORA",
+  "book": "PRENOTA",
+  "startingFrom": "A partire da",
+  "perDay": "/ giorno",
+  "total": "Totale",
+  "orSimilar": "o simile",
+  "readMore": "Leggi di più",
+  "explore": "Scopri le nostre auto",
+  "days": "giorni",
+  "day": "giorno",
+  "all": "Tutte",
+  "loading": "Caricamento…"
+ },
+ "search": {
+  "pickupLocation": "Luogo di ritiro",
+  "dropoffLocation": "Luogo di riconsegna",
+  "differentReturn": "Riconsegna in un altro luogo",
+  "pickupDate": "Data di ritiro",
+  "pickupTime": "Ora di ritiro",
+  "dropoffDate": "Data di riconsegna",
+  "dropoffTime": "Ora di riconsegna",
+  "category": "Categoria",
+  "any": "Tutte",
+  "search": "Cerca",
+  "choose": "Scegli un luogo",
+  "invalid": "La riconsegna deve essere dopo il ritiro."
+ },
+ "cat": {
+  "4x4": "4x4",
+  "citadine": "City car",
+  "midrange": "Fascia media"
+ },
+ "spec": {
+  "manual": "Manuale",
+  "automatic": "Automatico",
+  "diesel": "Diesel",
+  "petrol": "Benzina",
+  "seats": "{n} posti",
+  "ac": "Clima",
+  "fuelPolicy": "Politica carburante",
+  "fuelPolicyText": "Ritiro e riconsegna con lo stesso livello",
+  "minAge": "Età minima",
+  "minAgeText": "{n} anni"
+ },
+ "carDesc": {
+  "4x4": "Una 4x4 potente e affidabile, pensata per piste nel deserto, strade di montagna e comfort quotidiano.",
+  "citadine": "Un'auto compatta ed economica, perfetta per la città e l'uso quotidiano.",
+  "midrange": "Un SUV comodo e moderno, ben equipaggiato per lunghi viaggi e vacanze in famiglia."
+ },
+ "included": [
+  "Cancellazione gratuita",
+  "Nessun pagamento anticipato",
+  "Consegna e ritiro gratuiti in aeroporto",
+  "Consegna e ritiro gratuiti a domicilio a Marrakech",
+  "Protezione furto",
+  "Copertura parziale in caso di collisione",
+  "Assistenza stradale 24/7",
+  "Chilometraggio illimitato"
+ ],
+ "deposit": {
+  "title": "Cauzione / franchigia",
+  "text": "Importo bloccato sulla tua carta",
+  "cards": "Accettiamo carte di debito, di credito e American Express"
+ },
+ "hero": {
+  "title": "Fuoristrada. Preciso. I migliori noleggi di auto e 4x4 in Marocco"
+ },
+ "home": {
+  "introTitle": "Noleggia una 4x4 a Marrakech",
+  "introText": "Scopri il Marocco con il nostro servizio di noleggio 4x4 a Marrakech. Che tu esplori Marrakech, l'Atlante o il deserto del Sahara, abbiamo il veicolo perfetto.",
+  "features": [
+   {
+    "t": "Punti di ritiro comodi",
+    "d": "I nostri veicoli sono affidabili e versatili, perfetti per dune, strade di montagna e città."
+   },
+   {
+    "t": "Prezzi accessibili",
+    "d": "Tariffe competitive senza costi nascosti, pacchetti flessibili e ottimo rapporto qualità-prezzo."
+   },
+   {
+    "t": "Assistenza esperta",
+    "d": "Il nostro team è disponibile 24/7 per la tua prenotazione e per l'assistenza su strada."
+   },
+   {
+    "t": "Noleggio flessibile",
+    "d": "Noleggio giornaliero, settimanale o a lungo termine in base ai tuoi piani di viaggio."
+   },
+   {
+    "t": "Sedi in tutto il Marocco",
+    "d": "Punti di ritiro e riconsegna in tutto il paese rendono semplice noleggiare e restituire."
+   },
+   {
+    "t": "La sicurezza prima di tutto",
+    "d": "Veicoli ben mantenuti con airbag, GPS e kit di emergenza."
+   }
+  ],
+  "sections": [
+   {
+    "t": "Esplora il Sahara con le nostre 4x4",
+    "d": "Cerchi un'avventura indimenticabile? Attraversa dune dorate, visita oasi remote e ammira l'orizzonte infinito con una 4x4 noleggiata a Marrakech."
+   },
+   {
+    "t": "Avventura sulle montagne dell'Atlante",
+    "d": "Percorri le strade tortuose dell'Atlante marocchino. Passi di montagna e valli nascoste sono alla portata di una 4x4 affidabile."
+   },
+   {
+    "t": "Scopri i tesori nascosti del Marocco",
+    "d": "Da città antiche a villaggi remoti, una 4x4 ti permette di uscire dai percorsi battuti e scoprire la cultura e i paesaggi del Marocco."
+   }
+  ],
+  "carsTitle": "Noleggio auto e 4x4 a Marrakech",
+  "galleryTitle": "Avventure indimenticabili in 4x4",
+  "citiesTitle": "Le nostre sedi di noleggio",
+  "reviewsKicker": "ESPERIENZE DEI CLIENTI",
+  "reviewsTitle": "La fiducia dei nostri clienti",
+  "reviewsText": "Scopri cosa dicono i clienti della loro esperienza con SHR Cars Rental.",
+  "reviewsCta": "Leggi le recensioni Google",
+  "reviewsCount": "{count} recensioni",
+  "ctaTitle": "Il tuo prossimo viaggio inizia con l'auto giusta.",
+  "historyTitle": "Scopri la nostra storia",
+  "historyText": "Offriamo noleggio di 4x4 e auto di qualità in tutto il Marocco. Che tu stia pianificando un'avventura nel Sahara, una visita a Marrakech o un viaggio sull'Atlante, la nostra flotta affidabile e il nostro servizio miglioreranno il tuo viaggio.",
+  "aboutBtn": "CHI SIAMO",
+  "faqTitle": "Le risposte alle tue domande",
+  "blogTitle": "Dal nostro blog"
+ },
+ "faq": [
+  {
+   "q": "Come trovo le migliori offerte all'aeroporto di Marrakech?",
+   "a": "Confronta direttamente sul nostro sito: i prezzi sono indicati al giorno, senza costi nascosti."
+  },
+  {
+   "q": "Quali documenti servono per noleggiare?",
+   "a": "Patente di guida valida, documento d'identità o passaporto e una carta per la cauzione. L'età minima è 21 anni."
+  },
+  {
+   "q": "Quali sono le regole di guida in Marocco?",
+   "a": "Guida a destra, cintura allacciata, niente telefono alla guida e rispetto dei limiti di velocità."
+  },
+  {
+   "q": "L'assicurazione è inclusa?",
+   "a": "L'assicurazione base è inclusa, con copertura parziale in caso di collisione e protezione furto. La franchigia viene bloccata sulla tua carta."
+  },
+  {
+   "q": "Dove posso ritirare o riconsegnare il veicolo?",
+   "a": "La maggior parte dei ritiri avviene in aeroporto. A Marrakech consegniamo gratuitamente anche in hotel o a casa."
+  },
+  {
+   "q": "Qual è la politica del carburante?",
+   "a": "Ritiro e riconsegna dell'auto con lo stesso livello di carburante."
+  },
+  {
+   "q": "Quanto costa noleggiare un'auto a Marrakech?",
+   "a": "I prezzi partono da 20 € al giorno in base alla stagione e al veicolo."
+  },
+  {
+   "q": "Qualche consiglio per un noleggio senza problemi?",
+   "a": "Prenota in anticipo, leggi le condizioni, controlla l'auto prima di partire e guida con prudenza."
+  }
+ ],
+ "cars": {
+  "title": "Le nostre auto",
+  "intro": "Scegli il tuo veicolo. Cancellazione gratuita e nessun pagamento anticipato: paghi in agenzia.",
+  "found": "{n} auto disponibili",
+  "noneTitle": "Nessuna auto disponibile per queste date",
+  "noneText": "Prova altre date o un'altra categoria, oppure contattaci e troveremo una soluzione.",
+  "changeDates": "Cambia date",
+  "pickup": "Ritiro",
+  "dropoff": "Riconsegna",
+  "duration": "{n} giorni",
+  "allCars": "Tutte le auto",
+  "soldOut": "Non disponibile"
+ },
+ "detail": {
+  "overview": "Panoramica",
+  "included": "Incluso",
+  "specs": "Caratteristiche",
+  "pricing": "Prezzi",
+  "selectDates": "Scegli le date",
+  "check": "Verifica disponibilità",
+  "notAvailable": "Questa auto non è disponibile per le date scelte.",
+  "available": "Disponibile per le tue date",
+  "similar": "Altre auto che potrebbero piacerti",
+  "deposit": "Cauzione"
+ },
+ "book": {
+  "title": "Completa la prenotazione",
+  "details": "I tuoi dati",
+  "name": "Nome e cognome",
+  "email": "E-mail",
+  "phone": "Telefono / WhatsApp",
+  "country": "Paese",
+  "notes": "Note (numero di volo, indirizzo di consegna…)",
+  "summary": "Riepilogo prenotazione",
+  "confirm": "Conferma prenotazione",
+  "submitting": "Invio…",
+  "payAtAgency": "Pagamento in agenzia",
+  "payNote": "Nessuna carta necessaria ora. Paghi al ritiro dell'auto.",
+  "errorGeneric": "Qualcosa è andato storto. Riprova o contattaci.",
+  "unavailable": "Spiacenti, questa auto è appena stata prenotata per queste date.",
+  "required": "Inserisci nome, e-mail e telefono.",
+  "datesMissing": "Scegli prima le date."
+ },
+ "confirm": {
+  "title": "Prenotazione confermata",
+  "text": "Grazie! Abbiamo ricevuto la tua prenotazione e inviato una conferma alla tua e-mail.",
+  "orderNumber": "Numero d'ordine",
+  "code": "Codice di conferma",
+  "status": "Stato",
+  "statusConfirmed": "Confermata",
+  "back": "Torna alla home",
+  "notFound": "Prenotazione non trovata."
+ },
+ "contact": {
+  "title": "Contattaci",
+  "text": "Domande o richieste particolari? Rispondiamo in fretta, 24/7.",
+  "name": "Il tuo nome",
+  "email": "E-mail",
+  "phone": "Telefono",
+  "message": "Messaggio",
+  "send": "Invia messaggio",
+  "sent": "Messaggio inviato. Ti risponderemo a breve.",
+  "error": "Impossibile inviare il messaggio. Prova WhatsApp o telefono.",
+  "call": "Chiamaci",
+  "write": "Scrivici",
+  "visit": "Vieni a trovarci",
+  "whatsapp": "Chatta su WhatsApp"
+ },
+ "about": {
+  "title": "Chi è SHR Cars Rental",
+  "text": "Siamo specializzati nel noleggio di 4x4 e auto in tutto il Marocco. Il nostro team consegna i veicoli in aeroporto, in hotel o a casa e ti assiste 24/7 durante il viaggio."
+ },
+ "conditions": {
+  "title": "Condizioni di noleggio",
+  "items": [
+   "Età minima: 21 anni. I conducenti sotto i 25 anni possono avere un supplemento giovane conducente.",
+   "Sono richiesti patente valida (da almeno 1 anno) e documento d'identità o passaporto.",
+   "Una cauzione viene bloccata su carta di debito o credito al ritiro e rilasciata alla riconsegna.",
+   "Politica carburante: stesso livello al ritiro e alla riconsegna.",
+   "Il chilometraggio è illimitato.",
+   "Cancellazione gratuita e nessun pagamento anticipato: si paga in agenzia.",
+   "Copertura parziale in caso di collisione e protezione furto incluse. La franchigia dipende dal veicolo.",
+   "La guida fuoristrada è consentita solo con veicoli 4x4 e a rischio del conducente."
+  ]
+ },
+ "city": {
+  "title": "Noleggio auto e 4x4 a {city}",
+  "text": "Noleggia un'auto o una 4x4 a {city} con SHR Cars. Ritira il veicolo in aeroporto o in città, con chilometraggio illimitato, cancellazione gratuita e nessun pagamento anticipato.",
+  "fleet": "Auto disponibili a {city}"
+ },
+ "blog": {
+  "title": "Consigli di viaggio in Marocco",
+  "empty": "Gli articoli arriveranno presto.",
+  "back": "Torna al blog"
+ },
+ "footer": {
+  "aboutTitle": "SCOPRI LA NOSTRA STORIA",
+  "aboutText": "Siamo specializzati nel noleggio di 4x4 e auto di qualità, con comfort e affidabilità per i tuoi viaggi in tutto il Marocco.",
+  "essential": "Link utili",
+  "agency": "Agenzia",
+  "locations": "Sedi",
+  "rights": "Tutti i diritti riservati."
+ },
+ "notFound": {
+  "title": "Pagina non trovata",
+  "text": "La pagina che cerchi non esiste.",
+  "home": "Torna alla home"
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "meta": {
+  "homeTitle": "Autohuur Marokko | 4x4, luxe & stadsauto's | SHR Cars",
+  "homeDesc": "Huur een auto in Marokko voor de beste prijs. Stadsauto's, luxe voertuigen en 4x4 in Marrakech, Casablanca, Tanger, Agadir en heel Marokko.",
+  "carsTitle": "Onze auto's | SHR Cars Autohuur Marokko",
+  "carsDesc": "Vergelijk onze 4x4, stadsauto's en middenklasse. Gratis levering op de luchthaven, onbeperkt aantal kilometers, betalen bij het kantoor.",
+  "cityTitle": "Autohuur & 4x4 in {city} | SHR Cars",
+  "cityDesc": "Huur een auto of 4x4 in {city}, Marokko. Ophalen op de luchthaven en in de stad, onbeperkt aantal kilometers, geen vooruitbetaling.",
+  "blogTitle": "Blog | Reistips voor Marokko | SHR Cars",
+  "blogDesc": "Reisgidsen, rijtips en de mooiste plekken in Marokko met een huurauto.",
+  "contactTitle": "Contact | SHR Cars Autohuur",
+  "aboutTitle": "Over ons | SHR Cars Autohuur",
+  "galleryTitle": "Galerij | SHR Cars Autohuur",
+  "conditionsTitle": "Huurvoorwaarden | SHR Cars Autohuur"
+ },
+ "nav": {
+  "home": "HOME",
+  "fourx4": "4×4 SAHARA",
+  "luxury": "LUXE",
+  "citadine": "STADSAUTO'S",
+  "gallery": "GALERIJ",
+  "contact": "CONTACT",
+  "about": "OVER ONS",
+  "cars": "ONZE AUTO'S",
+  "blog": "BLOG",
+  "conditions": "Huurvoorwaarden",
+  "menu": "Menu",
+  "language": "Taal"
+ },
+ "common": {
+  "bookNow": "NU BOEKEN",
+  "book": "BOEKEN",
+  "startingFrom": "Vanaf",
+  "perDay": "/ dag",
+  "total": "Totaal",
+  "orSimilar": "of vergelijkbaar",
+  "readMore": "Lees meer",
+  "explore": "Bekijk onze auto's",
+  "days": "dagen",
+  "day": "dag",
+  "all": "Alle",
+  "loading": "Laden…"
+ },
+ "search": {
+  "pickupLocation": "Ophaallocatie",
+  "dropoffLocation": "Inleverlocatie",
+  "differentReturn": "Inleveren op een andere locatie",
+  "pickupDate": "Ophaaldatum",
+  "pickupTime": "Ophaaltijd",
+  "dropoffDate": "Inleverdatum",
+  "dropoffTime": "Inlevertijd",
+  "category": "Categorie",
+  "any": "Alle",
+  "search": "Zoeken",
+  "choose": "Kies een locatie",
+  "invalid": "Inleveren moet na het ophalen zijn."
+ },
+ "cat": {
+  "4x4": "4x4",
+  "citadine": "Stadsauto",
+  "midrange": "Middenklasse"
+ },
+ "spec": {
+  "manual": "Handgeschakeld",
+  "automatic": "Automaat",
+  "diesel": "Diesel",
+  "petrol": "Benzine",
+  "seats": "{n} zitplaatsen",
+  "ac": "Airco",
+  "fuelPolicy": "Brandstofbeleid",
+  "fuelPolicyText": "Ophalen en inleveren met dezelfde tankinhoud",
+  "minAge": "Minimumleeftijd",
+  "minAgeText": "{n} jaar"
+ },
+ "carDesc": {
+  "4x4": "Een krachtige en betrouwbare 4x4 voor woestijnpistes, bergwegen en dagelijks comfort.",
+  "citadine": "Een compacte, zuinige auto, perfect voor de stad en dagelijks gebruik.",
+  "midrange": "Een comfortabele, moderne SUV met goede uitrusting voor lange ritten en gezinsvakanties."
+ },
+ "included": [
+  "Gratis annuleren",
+  "Geen vooruitbetaling nodig",
+  "Gratis levering en ophalen op de luchthaven",
+  "Gratis levering en ophalen aan huis in Marrakech",
+  "Diefstalbescherming",
+  "Gedeeltelijke dekking bij een aanrijding",
+  "24/7 pechhulp",
+  "Onbeperkt aantal kilometers"
+ ],
+ "deposit": {
+  "title": "Borg / eigen risico",
+  "text": "Bedrag wordt geblokkeerd op uw kaart",
+  "cards": "Debetkaarten, creditcards en American Express worden geaccepteerd"
+ },
+ "hero": {
+  "title": "Offroad. Raak. De beste auto- en 4x4-verhuur van Marokko"
+ },
+ "home": {
+  "introTitle": "Huur een 4x4 in Marrakech",
+  "introText": "Ontdek Marokko met onze 4x4-verhuur in Marrakech. Of u nu door Marrakech, het Atlasgebergte of de Sahara reist, wij hebben het juiste voertuig.",
+  "features": [
+   {
+    "t": "Handige ophaalpunten",
+    "d": "Onze voertuigen zijn betrouwbaar en veelzijdig, perfect voor duinen, bergwegen en de stad."
+   },
+   {
+    "t": "Betaalbare prijzen",
+    "d": "Scherpe tarieven zonder verborgen kosten, flexibele pakketten en uitstekende prijs-kwaliteit."
+   },
+   {
+    "t": "Deskundige hulp",
+    "d": "Ons team is 24/7 bereikbaar voor uw boeking en hulp onderweg."
+   },
+   {
+    "t": "Flexibele huuropties",
+    "d": "Huur per dag, week of langere periode, passend bij uw reisplannen."
+   },
+   {
+    "t": "Kantoren in heel Marokko",
+    "d": "Ophaal- en inleverpunten in het hele land maken huren en inleveren eenvoudig."
+   },
+   {
+    "t": "Veiligheid voorop",
+    "d": "Goed onderhouden voertuigen met airbags, gps en noodpakket."
+   }
+  ],
+  "sections": [
+   {
+    "t": "Verken de Sahara met onze 4x4",
+    "d": "Op zoek naar een onvergetelijk avontuur? Trotseer gouden duinen, bezoek afgelegen oases en geniet van de eindeloze horizon met een 4x4 uit Marrakech."
+   },
+   {
+    "t": "Avontuur in het Atlasgebergte",
+    "d": "Rijd over de bochtige wegen van het Marokkaanse Atlasgebergte. Bergpassen en verborgen dalen zijn goed te bereiken met een betrouwbare 4x4."
+   },
+   {
+    "t": "Ontdek de verborgen schatten van Marokko",
+    "d": "Van oude steden tot afgelegen dorpen: met een 4x4 verlaat u de gebaande paden en ontdekt u de cultuur en landschappen van Marokko."
+   }
+  ],
+  "carsTitle": "Autohuur & 4x4 Marrakech",
+  "galleryTitle": "Onvergetelijke avonturen in 4x4",
+  "citiesTitle": "Onze huurlocaties",
+  "reviewsKicker": "ERVARINGEN VAN KLANTEN",
+  "reviewsTitle": "Vertrouwd door onze klanten",
+  "reviewsText": "Ontdek wat klanten zeggen over hun ervaring met SHR Cars Rental.",
+  "reviewsCta": "Lees Google-reviews",
+  "reviewsCount": "{count} reviews",
+  "ctaTitle": "Uw volgende reis begint met de juiste auto.",
+  "historyTitle": "Ontdek ons verhaal",
+  "historyText": "Wij bieden hoogwaardige 4x4- en autoverhuur in heel Marokko. Of u nu de Sahara verkent, Marrakech bezoekt of door het Atlasgebergte rijdt: onze betrouwbare vloot en service maken uw reis beter.",
+  "aboutBtn": "OVER ONS",
+  "faqTitle": "Antwoorden op uw vragen",
+  "blogTitle": "Van onze blog"
+ },
+ "faq": [
+  {
+   "q": "Hoe vind ik de beste aanbiedingen op de luchthaven van Marrakech?",
+   "a": "Vergelijk direct op onze website: prijzen worden per dag getoond, zonder verborgen kosten."
+  },
+  {
+   "q": "Welke documenten heb ik nodig om te huren?",
+   "a": "Een geldig rijbewijs, een id-kaart of paspoort en een kaart voor de borg. De minimumleeftijd is 21 jaar."
+  },
+  {
+   "q": "Wat zijn de verkeersregels in Marokko?",
+   "a": "Rechts rijden, gordel om, niet bellen achter het stuur en snelheidslimieten respecteren."
+  },
+  {
+   "q": "Is verzekering inbegrepen?",
+   "a": "Basisverzekering is inbegrepen, met gedeeltelijke dekking bij aanrijding en diefstalbescherming. Het eigen risico wordt op uw kaart geblokkeerd."
+  },
+  {
+   "q": "Waar kan ik het voertuig ophalen of inleveren?",
+   "a": "De meeste ophaalpunten zijn op de luchthaven. In Marrakech leveren we ook gratis bij uw hotel of thuisadres."
+  },
+  {
+   "q": "Wat is het brandstofbeleid?",
+   "a": "Ophalen en inleveren met dezelfde tankinhoud."
+  },
+  {
+   "q": "Wat kost een huurauto in Marrakech?",
+   "a": "Prijzen beginnen vanaf € 20 per dag, afhankelijk van het seizoen en het voertuig."
+  },
+  {
+   "q": "Tips voor een soepele huur?",
+   "a": "Boek op tijd, lees de voorwaarden, controleer de auto voor vertrek en rijd verantwoord."
+  }
+ ],
+ "cars": {
+  "title": "Onze auto's",
+  "intro": "Kies uw voertuig. Gratis annuleren, geen vooruitbetaling: u betaalt bij het kantoor.",
+  "found": "{n} auto's beschikbaar",
+  "noneTitle": "Geen auto's beschikbaar voor deze data",
+  "noneText": "Probeer andere data of een andere categorie, of neem contact met ons op.",
+  "changeDates": "Data wijzigen",
+  "pickup": "Ophalen",
+  "dropoff": "Inleveren",
+  "duration": "{n} dagen",
+  "allCars": "Alle auto's",
+  "soldOut": "Niet beschikbaar"
+ },
+ "detail": {
+  "overview": "Overzicht",
+  "included": "Inbegrepen",
+  "specs": "Specificaties",
+  "pricing": "Prijzen",
+  "selectDates": "Kies uw data",
+  "check": "Beschikbaarheid controleren",
+  "notAvailable": "Deze auto is niet beschikbaar op de gekozen data.",
+  "available": "Beschikbaar voor uw data",
+  "similar": "Andere auto's die u mogelijk bevallen",
+  "deposit": "Borg"
+ },
+ "book": {
+  "title": "Voltooi uw boeking",
+  "details": "Uw gegevens",
+  "name": "Volledige naam",
+  "email": "E-mail",
+  "phone": "Telefoon / WhatsApp",
+  "country": "Land",
+  "notes": "Opmerkingen (vluchtnummer, afleveradres…)",
+  "summary": "Boekingsoverzicht",
+  "confirm": "Boeking bevestigen",
+  "submitting": "Verzenden…",
+  "payAtAgency": "Betaling bij het kantoor",
+  "payNote": "Nu geen kaart nodig. U betaalt bij het ophalen van de auto.",
+  "errorGeneric": "Er ging iets mis. Probeer het opnieuw of neem contact op.",
+  "unavailable": "Helaas, deze auto is zojuist geboekt voor deze data.",
+  "required": "Vul uw naam, e-mail en telefoon in.",
+  "datesMissing": "Kies eerst uw data."
+ },
+ "confirm": {
+  "title": "Boeking bevestigd",
+  "text": "Bedankt! We hebben uw boeking ontvangen en een bevestiging naar uw e-mail gestuurd.",
+  "orderNumber": "Ordernummer",
+  "code": "Bevestigingscode",
+  "status": "Status",
+  "statusConfirmed": "Bevestigd",
+  "back": "Terug naar home",
+  "notFound": "Boeking niet gevonden."
+ },
+ "contact": {
+  "title": "Neem contact op",
+  "text": "Vragen of een speciaal verzoek? We reageren snel, 24/7.",
+  "name": "Uw naam",
+  "email": "E-mail",
+  "phone": "Telefoon",
+  "message": "Bericht",
+  "send": "Bericht versturen",
+  "sent": "Bericht verzonden. We nemen snel contact op.",
+  "error": "Bericht kon niet worden verzonden. Probeer WhatsApp of telefoon.",
+  "call": "Bel ons",
+  "write": "Schrijf ons",
+  "visit": "Bezoek ons",
+  "whatsapp": "Chat via WhatsApp"
+ },
+ "about": {
+  "title": "Over SHR Cars Rental",
+  "text": "Wij zijn gespecialiseerd in 4x4- en autoverhuur in heel Marokko. Ons team levert voertuigen op de luchthaven, bij uw hotel of thuis en staat 24/7 voor u klaar tijdens uw reis."
+ },
+ "conditions": {
+  "title": "Huurvoorwaarden",
+  "items": [
+   "Minimumleeftijd: 21 jaar. Bestuurders onder de 25 kunnen een toeslag voor jonge bestuurders betalen.",
+   "Een geldig rijbewijs (minimaal 1 jaar) en een id-kaart of paspoort zijn vereist.",
+   "Bij het ophalen wordt een borg geblokkeerd op een debet- of creditcard en bij het inleveren vrijgegeven.",
+   "Brandstofbeleid: dezelfde tankinhoud bij ophalen en inleveren.",
+   "Het aantal kilometers is onbeperkt.",
+   "Gratis annuleren, geen vooruitbetaling: betaling bij het kantoor.",
+   "Gedeeltelijke dekking bij aanrijding en diefstalbescherming zijn inbegrepen. Het eigen risico hangt af van het voertuig.",
+   "Offroad rijden is alleen toegestaan met 4x4-voertuigen en op eigen risico."
+  ]
+ },
+ "city": {
+  "title": "Autohuur & 4x4 in {city}",
+  "text": "Huur een auto of 4x4 in {city} bij SHR Cars. Haal uw voertuig op de luchthaven of in de stad op, met onbeperkt aantal kilometers, gratis annuleren en geen vooruitbetaling.",
+  "fleet": "Beschikbare auto's in {city}"
+ },
+ "blog": {
+  "title": "Reistips voor Marokko",
+  "empty": "Artikelen volgen binnenkort.",
+  "back": "Terug naar de blog"
+ },
+ "footer": {
+  "aboutTitle": "ONTDEK ONS VERHAAL",
+  "aboutText": "Wij zijn gespecialiseerd in hoogwaardige 4x4- en autoverhuur, met comfort en betrouwbaarheid voor uw reizen door heel Marokko.",
+  "essential": "Belangrijke links",
+  "agency": "Kantoor",
+  "locations": "Locaties",
+  "rights": "Alle rechten voorbehouden."
+ },
+ "notFound": {
+  "title": "Pagina niet gevonden",
+  "text": "De pagina die u zoekt bestaat niet.",
+  "home": "Terug naar home"
+ }
+}

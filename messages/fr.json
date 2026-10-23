@@ -1,0 +1,298 @@
+{
+ "meta": {
+  "homeTitle": "Location de voiture au Maroc | 4x4, luxe et citadines | SHR Cars",
+  "homeDesc": "Louez une voiture au Maroc au meilleur prix. Citadines, voitures de luxe et 4x4 à Marrakech, Casablanca, Tanger, Agadir et partout au Maroc.",
+  "carsTitle": "Nos voitures | SHR Cars Location Maroc",
+  "carsDesc": "Comparez nos 4x4, citadines et gammes moyennes. Livraison aéroport gratuite, kilométrage illimité, paiement à l'agence.",
+  "cityTitle": "Location de voiture et 4x4 à {city} | SHR Cars",
+  "cityDesc": "Louez une voiture ou un 4x4 à {city}, Maroc. Retrait aéroport et ville, kilométrage illimité, sans prépaiement.",
+  "blogTitle": "Blog | Conseils de voyage au Maroc | SHR Cars",
+  "blogDesc": "Guides de voyage, conseils de conduite et meilleurs endroits à visiter au Maroc en voiture de location.",
+  "contactTitle": "Contact | SHR Cars Location",
+  "aboutTitle": "À propos | SHR Cars Location",
+  "galleryTitle": "Galerie | SHR Cars Location",
+  "conditionsTitle": "Conditions de location | SHR Cars Location"
+ },
+ "nav": {
+  "home": "ACCUEIL",
+  "fourx4": "4×4 SAHARA",
+  "luxury": "LUXE",
+  "citadine": "CITADINES",
+  "gallery": "GALERIE",
+  "contact": "CONTACT",
+  "about": "À PROPOS",
+  "cars": "NOS VOITURES",
+  "blog": "BLOG",
+  "conditions": "Conditions de location",
+  "menu": "Menu",
+  "language": "Langue"
+ },
+ "common": {
+  "bookNow": "RÉSERVER",
+  "book": "RÉSERVER",
+  "startingFrom": "À partir de",
+  "perDay": "/ jour",
+  "total": "Total",
+  "orSimilar": "ou similaire",
+  "readMore": "Lire la suite",
+  "explore": "Découvrir nos voitures",
+  "days": "jours",
+  "day": "jour",
+  "all": "Toutes",
+  "loading": "Chargement…"
+ },
+ "search": {
+  "pickupLocation": "Lieu de retrait",
+  "dropoffLocation": "Lieu de restitution",
+  "differentReturn": "Restituer dans un autre endroit",
+  "pickupDate": "Date de retrait",
+  "pickupTime": "Heure de retrait",
+  "dropoffDate": "Date de restitution",
+  "dropoffTime": "Heure de restitution",
+  "category": "Catégorie",
+  "any": "Toutes",
+  "search": "Rechercher",
+  "choose": "Choisir un lieu",
+  "invalid": "Le retour doit être après le retrait."
+ },
+ "cat": {
+  "4x4": "4x4",
+  "citadine": "Citadine",
+  "midrange": "Moyenne gamme"
+ },
+ "spec": {
+  "manual": "Manuelle",
+  "automatic": "Automatique",
+  "diesel": "Diesel",
+  "petrol": "Essence",
+  "seats": "{n} places",
+  "ac": "Clim",
+  "fuelPolicy": "Politique carburant",
+  "fuelPolicyText": "Prise et retour avec le même niveau",
+  "minAge": "Âge minimum",
+  "minAgeText": "{n} ans"
+ },
+ "carDesc": {
+  "4x4": "Un 4x4 puissant et fiable, conçu pour les pistes du désert, les routes de montagne et le confort au quotidien.",
+  "citadine": "Une voiture compacte et économique, parfaite pour la ville et l'usage quotidien.",
+  "midrange": "Un SUV confortable et moderne, bien équipé pour les longs trajets et les voyages en famille."
+ },
+ "included": [
+  "Annulation gratuite",
+  "Aucun prépaiement requis",
+  "Livraison et récupération aéroport gratuites",
+  "Livraison et récupération gratuites à domicile à Marrakech",
+  "Protection en cas de vol",
+  "Couverture partielle en cas de collision",
+  "Assistance routière 24h/24 et 7j/7",
+  "Kilométrage illimité"
+ ],
+ "deposit": {
+  "title": "Caution / franchise",
+  "text": "Montant bloqué sur votre carte",
+  "cards": "Cartes de débit, de crédit et American Express acceptées"
+ },
+ "hero": {
+  "title": "Off-road. Précis. Les meilleures locations de voitures et 4x4 du Maroc"
+ },
+ "home": {
+  "introTitle": "Louer un 4x4 à Marrakech",
+  "introText": "Découvrez le Maroc avec notre service de location de 4x4 à Marrakech. Que vous exploriez Marrakech, l'Atlas ou le désert du Sahara, nous avons le véhicule idéal.",
+  "features": [
+   {
+    "t": "Points de retrait pratiques",
+    "d": "Nos véhicules sont fiables et polyvalents, parfaits pour les dunes, les routes de montagne et la ville."
+   },
+   {
+    "t": "Prix abordables",
+    "d": "Des tarifs compétitifs sans frais cachés, des formules flexibles et un excellent rapport qualité-prix."
+   },
+   {
+    "t": "Assistance experte",
+    "d": "Notre équipe est disponible 24h/24 et 7j/7 pour votre réservation et l'assistance sur la route."
+   },
+   {
+    "t": "Locations flexibles",
+    "d": "Location à la journée, à la semaine ou longue durée selon vos projets de voyage."
+   },
+   {
+    "t": "Agences dans tout le Maroc",
+    "d": "Des points de retrait et de restitution dans tout le pays pour louer et rendre facilement."
+   },
+   {
+    "t": "La sécurité avant tout",
+    "d": "Des véhicules bien entretenus, équipés d'airbags, de GPS et de kits d'urgence."
+   }
+  ],
+  "sections": [
+   {
+    "t": "Explorez le Sahara avec nos 4x4",
+    "d": "Envie d'aventure ? Franchissez les dunes dorées, visitez des oasis isolées et admirez l'horizon infini avec un 4x4 loué à Marrakech."
+   },
+   {
+    "t": "Aventure dans l'Atlas",
+    "d": "Partez sur les routes sinueuses de l'Atlas marocain. Cols de montagne et vallées cachées sont à portée avec un 4x4 fiable."
+   },
+   {
+    "t": "Découvrez les trésors cachés du Maroc",
+    "d": "Des villes anciennes aux villages reculés, un 4x4 vous permet de sortir des sentiers battus et de découvrir la culture et les paysages du Maroc."
+   }
+  ],
+  "carsTitle": "Location de voiture et 4x4 à Marrakech",
+  "galleryTitle": "Des aventures inoubliables en 4x4",
+  "citiesTitle": "Nos lieux de location",
+  "reviewsKicker": "EXPÉRIENCES CLIENTS",
+  "reviewsTitle": "La confiance de nos clients",
+  "reviewsText": "Découvrez ce que nos clients disent de leur expérience avec SHR Cars Rental.",
+  "reviewsCta": "Lire les avis Google",
+  "reviewsCount": "{count} avis",
+  "ctaTitle": "Votre prochain voyage commence avec la bonne voiture.",
+  "historyTitle": "Découvrez notre histoire",
+  "historyText": "Nous proposons des locations de 4x4 et de voitures de qualité dans tout le Maroc. Pour une aventure dans le Sahara, une visite de Marrakech ou une route dans l'Atlas, notre flotte fiable et notre service sublimeront votre voyage.",
+  "aboutBtn": "À PROPOS",
+  "faqTitle": "Les réponses à vos questions",
+  "blogTitle": "Notre blog"
+ },
+ "faq": [
+  {
+   "q": "Comment trouver les meilleures offres à l'aéroport de Marrakech ?",
+   "a": "Comparez directement sur notre site : les prix sont affichés par jour, sans frais cachés."
+  },
+  {
+   "q": "Quels documents faut-il pour louer ?",
+   "a": "Un permis de conduire valide, une pièce d'identité ou un passeport et une carte pour la caution. L'âge minimum est de 21 ans."
+  },
+  {
+   "q": "Quelles sont les règles de conduite au Maroc ?",
+   "a": "Roulez à droite, bouclez votre ceinture, n'utilisez pas votre téléphone au volant et respectez les limitations de vitesse."
+  },
+  {
+   "q": "L'assurance est-elle incluse ?",
+   "a": "L'assurance de base est incluse, avec couverture partielle en cas de collision et protection contre le vol. La franchise est bloquée sur votre carte."
+  },
+  {
+   "q": "Où récupérer ou rendre le véhicule ?",
+   "a": "La plupart des retraits se font à l'aéroport. Nous livrons aussi gratuitement à votre hôtel ou domicile à Marrakech."
+  },
+  {
+   "q": "Quelle est la politique carburant ?",
+   "a": "Prise et retour du véhicule avec le même niveau de carburant."
+  },
+  {
+   "q": "Combien coûte la location d'une voiture à Marrakech ?",
+   "a": "Les prix commencent à 20 € par jour selon la saison et le véhicule."
+  },
+  {
+   "q": "Des conseils pour une location sans souci ?",
+   "a": "Réservez tôt, lisez les conditions, inspectez la voiture avant de partir et conduisez prudemment."
+  }
+ ],
+ "cars": {
+  "title": "Nos voitures",
+  "intro": "Choisissez votre véhicule. Annulation gratuite, sans prépaiement : vous payez à l'agence.",
+  "found": "{n} voitures disponibles",
+  "noneTitle": "Aucune voiture disponible à ces dates",
+  "noneText": "Essayez d'autres dates ou une autre catégorie, ou contactez-nous et nous trouverons une solution.",
+  "changeDates": "Modifier les dates",
+  "pickup": "Retrait",
+  "dropoff": "Restitution",
+  "duration": "{n} jours",
+  "allCars": "Toutes les voitures",
+  "soldOut": "Indisponible"
+ },
+ "detail": {
+  "overview": "Présentation",
+  "included": "Inclus",
+  "specs": "Caractéristiques",
+  "pricing": "Tarifs",
+  "selectDates": "Choisissez vos dates",
+  "check": "Vérifier la disponibilité",
+  "notAvailable": "Cette voiture n'est pas disponible aux dates choisies.",
+  "available": "Disponible pour vos dates",
+  "similar": "Autres voitures qui pourraient vous plaire",
+  "deposit": "Caution"
+ },
+ "book": {
+  "title": "Finalisez votre réservation",
+  "details": "Vos informations",
+  "name": "Nom complet",
+  "email": "E-mail",
+  "phone": "Téléphone / WhatsApp",
+  "country": "Pays",
+  "notes": "Notes (numéro de vol, adresse de livraison…)",
+  "summary": "Récapitulatif",
+  "confirm": "Confirmer la réservation",
+  "submitting": "Envoi…",
+  "payAtAgency": "Paiement à l'agence",
+  "payNote": "Aucune carte requise maintenant. Vous payez à la prise du véhicule.",
+  "errorGeneric": "Une erreur est survenue. Réessayez ou contactez-nous.",
+  "unavailable": "Désolé, cette voiture vient d'être réservée pour ces dates.",
+  "required": "Veuillez renseigner votre nom, e-mail et téléphone.",
+  "datesMissing": "Veuillez d'abord choisir vos dates."
+ },
+ "confirm": {
+  "title": "Réservation confirmée",
+  "text": "Merci ! Nous avons bien reçu votre réservation et envoyé une confirmation à votre e-mail.",
+  "orderNumber": "Numéro de commande",
+  "code": "Code de confirmation",
+  "status": "Statut",
+  "statusConfirmed": "Confirmée",
+  "back": "Retour à l'accueil",
+  "notFound": "Réservation introuvable."
+ },
+ "contact": {
+  "title": "Contactez-nous",
+  "text": "Une question ou une demande particulière ? Nous répondons vite, 24h/24 et 7j/7.",
+  "name": "Votre nom",
+  "email": "E-mail",
+  "phone": "Téléphone",
+  "message": "Message",
+  "send": "Envoyer le message",
+  "sent": "Message envoyé. Nous vous répondrons très vite.",
+  "error": "Impossible d'envoyer le message. Essayez WhatsApp ou le téléphone.",
+  "call": "Appelez-nous",
+  "write": "Écrivez-nous",
+  "visit": "Venez nous voir",
+  "whatsapp": "Discuter sur WhatsApp"
+ },
+ "about": {
+  "title": "À propos de SHR Cars Rental",
+  "text": "Nous sommes spécialisés dans la location de 4x4 et de voitures partout au Maroc. Notre équipe livre les véhicules à l'aéroport, à l'hôtel ou à domicile et vous assiste 24h/24 pendant votre voyage."
+ },
+ "conditions": {
+  "title": "Conditions de location",
+  "items": [
+   "Âge minimum : 21 ans. Les conducteurs de moins de 25 ans peuvent être soumis à des frais jeune conducteur.",
+   "Un permis de conduire valide (depuis au moins 1 an) et une pièce d'identité ou un passeport sont requis.",
+   "Une caution est bloquée sur une carte de débit ou de crédit à la prise du véhicule et libérée au retour.",
+   "Politique carburant : même niveau à la prise et au retour.",
+   "Le kilométrage est illimité.",
+   "Annulation gratuite, sans prépaiement : le paiement se fait à l'agence.",
+   "Couverture partielle en cas de collision et protection contre le vol incluses. La franchise dépend du véhicule.",
+   "La conduite hors route n'est autorisée qu'avec les 4x4 et aux risques du conducteur."
+  ]
+ },
+ "city": {
+  "title": "Location de voiture et 4x4 à {city}",
+  "text": "Louez une voiture ou un 4x4 à {city} avec SHR Cars. Retirez votre véhicule à l'aéroport ou en ville, avec kilométrage illimité, annulation gratuite et sans prépaiement.",
+  "fleet": "Voitures disponibles à {city}"
+ },
+ "blog": {
+  "title": "Conseils de voyage au Maroc",
+  "empty": "Les articles arrivent bientôt.",
+  "back": "Retour au blog"
+ },
+ "footer": {
+  "aboutTitle": "DÉCOUVREZ NOTRE HISTOIRE",
+  "aboutText": "Nous sommes spécialisés dans la location de 4x4 et de voitures de qualité, pour le confort et la fiabilité de vos voyages partout au Maroc.",
+  "essential": "Liens utiles",
+  "agency": "Agence",
+  "locations": "Agences",
+  "rights": "Tous droits réservés."
+ },
+ "notFound": {
+  "title": "Page introuvable",
+  "text": "La page que vous cherchez n'existe pas.",
+  "home": "Retour à l'accueil"
+ }
+}

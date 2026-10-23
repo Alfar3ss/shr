@@ -1,0 +1,6 @@
+// Real Google reviews already published on the current site.
+export const REVIEWS = [
+  { name: 'Arno Sailer', initials: 'AS', date: 'Jun 2026', text: 'It was an awesome ride through Marocco…. We highly recommend a 4x4, not only for the dessert! SHR we found because of the very good recession in the net and we only can tell you, that not a single problem occurred with this company. They gave us the car and said “easy” to everything we asked and indeed, they hold their word!!! Super car, super people… good luck and ride a Toyota Land Cruiser from SHR.' },
+  { name: 'Andrea Gaielli', initials: 'AG', date: 'April 2026', text: "Excellent service, very professional. Car was delivered and picked up timely in a chosen convenient location. Car was just perfect through sand, fetch-fetch, dunes and rocky steep hills. Strongly recommend. Thank you. We will be back insh' Allah." },
+  { name: 'Manuel Mota Silva', initials: 'MS', date: 'March 2026', text: 'A professional, high-quality service. SHR took great care of our booking right from day one. A personalised service focused on the guest’s comfort. I really enjoyed it and would highly recommend it. I hope to return soon! Thank you, Hicham' },
+];
